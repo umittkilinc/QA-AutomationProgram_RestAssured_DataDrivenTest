@@ -1,5 +1,3 @@
-# ! Important: 
-You must give the path of the excel file in dataDriven.java. I specified this as {YourExcelFileAndName} in the class.
-
-I have attached the demodata.xlsx file as an example.
-Since the "aisle" field has a unique value, it must be changed before each test.
+# About:
+It is a Test Automation Framework that performs Rest Assured and CRUD Rest Service tests of data given to Json messages created with Pojo classes with Excel. 
+The framework has also been strengthened with TestNG and ExtendReports.
