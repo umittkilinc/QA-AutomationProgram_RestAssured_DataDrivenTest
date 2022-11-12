@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5eff3a6-292f-4e84-945d-51045677dcdc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demodata.xlsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2HEh2kiOm6GQJg6untxBbDasKPj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\umit.kilinc\Desktop\RestAssured_DDT_FromExcel_ToPOJO\src\main\resources\ExcelFiles" />
+      <recent name="C:\Users\umit.kilinc\Desktop\RestAssuredExcelDrivenDataExample\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\umit.kilinc\Desktop\RestAssured_DDT_FromExcel_ToPOJO\target" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="util" />
+      <recent name="TestFramework.UpdateDog" />
+      <recent name="TestFramework" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/umit.kilinc/Desktop/RestAssured_DDT_FromExcel_ToPOJO/src/main/resources/TestNG.xml">
+    <configuration name="C:/Users/umit.kilinc/Desktop/RestAssured_DDT_FromExcel_ToPOJO/src/main/resources/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured_DDT_FromExcel_ToPOJO" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteDog" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured_DDT_FromExcel_ToPOJO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestFramework" />
+      <option name="MAIN_CLASS_NAME" value="TestFramework.DeleteDog" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteDog.Request" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured_DDT_FromExcel_ToPOJO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestFramework" />
+      <option name="MAIN_CLASS_NAME" value="TestFramework.DeleteDog" />
+      <option name="METHOD_NAME" value="Request" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadDog.Request" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured_DDT_FromExcel_ToPOJO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestFramework" />
+      <option name="MAIN_CLASS_NAME" value="TestFramework.ReadDog" />
+      <option name="METHOD_NAME" value="Request" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured_DDT_FromExcel_ToPOJO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestFramework.AddDog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestFramework.AddDog" />
+      <option name="MAIN_CLASS_NAME" value="TestFramework.AddDog.Tests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsAddDog" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured_DDT_FromExcel_ToPOJO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestFramework.AddDog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestFramework.AddDog" />
+      <option name="MAIN_CLASS_NAME" value="TestFramework.AddDog.TestsAddDog" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured_DDT_FromExcel_ToPOJO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestFramework.AddDog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestFramework.AddDog" />
+      <option name="MAIN_CLASS_NAME" value="TestFramework.AddDog.Tests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateDog.Request" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured_DDT_FromExcel_ToPOJO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestFramework" />
+      <option name="MAIN_CLASS_NAME" value="TestFramework.UpdateDog" />
+      <option name="METHOD_NAME" value="Request" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/umit.kilinc/Desktop/RestAssured_DDT_FromExcel_ToPOJO/src/main/resources/TestNG.xml" />
+        <item itemvalue="TestNG.DeleteDog" />
+        <item itemvalue="TestNG.ReadDog.Request" />
+        <item itemvalue="TestNG.DeleteDog.Request" />
+        <item itemvalue="TestNG.UpdateDog.Request" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5eff3a6-292f-4e84-945d-51045677dcdc" name="Default Changelist" comment="" />
+      <created>1667855946050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667855946050</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
